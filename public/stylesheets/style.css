@@ -1,0 +1,63 @@
+body {
+    background-color: aquamarine;
+}
+
+.backgr {
+    background-image: url("https://images3.alphacoders.com/855/85585.jpg");
+    background-size: cover;
+    width:100%;
+    height:auto;
+    background-position: 0px 410px; 
+}
+
+.backgr2 {
+    background-image: url("https://sm.ign.com/t/ign_latam/screenshot/default/lotr1_a24e.1280.jpg");
+    background-size: cover;
+    width:100%;
+    height:auto;
+    /* background-position: 0px 390px; */
+    background-position: 0 -10px;
+    background-repeat: no-repeat;
+    position: relative; 
+}
+
+.backgr3 {
+    background-image: url("https://www.theyoungfolks.com/wp-content/uploads/2020/03/National-Tolkien-Reading-Day-2020-1536x864.png");
+    background-size: cover;
+    width:100%;
+    height:auto;
+    /* background-position: 0px 390px; */
+}
+
+
+.title {
+    padding-top: 12%;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    line-height: 4em;
+    text-shadow: #020f31 5px -10px 
+}
+
+.title3 {
+    padding-top: 12%;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    line-height: 4em;
+    text-shadow: #ffffff 5px -10px 
+}
+
+.unoR{
+    padding-top: 25px;
+}
+
+table {
+    margin: 50px;
+    margin-right: 50px;
+}
+
+footer {
+    padding-top: 150px;
+    font-size: 9px;
+}
